@@ -1,0 +1,12 @@
+# Dependências
+node_modules/
+
+# Build
+dist/
+
+# Vite
+*.local
+
+# Logs
+npm-debug.log*
+amostra-*.html
